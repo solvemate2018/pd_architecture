@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pd_architecture/static/css/main.f5d77b26.css",
+    "main.js": "/pd_architecture/static/js/main.6c073d9c.js",
+    "static/js/787.3a3714a3.chunk.js": "/pd_architecture/static/js/787.3a3714a3.chunk.js",
+    "static/media/Segoe-UI-Variable-Static-Display-Light.ttf": "/pd_architecture/static/media/Segoe-UI-Variable-Static-Display-Light.9d3d90de42981a0c50ec.ttf",
+    "index.html": "/pd_architecture/index.html",
+    "main.f5d77b26.css.map": "/pd_architecture/static/css/main.f5d77b26.css.map",
+    "main.6c073d9c.js.map": "/pd_architecture/static/js/main.6c073d9c.js.map",
+    "787.3a3714a3.chunk.js.map": "/pd_architecture/static/js/787.3a3714a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d77b26.css",
+    "static/js/main.6c073d9c.js"
+  ]
+}
