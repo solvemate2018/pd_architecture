@@ -4,7 +4,7 @@ export const AboutUs = {
     title: 'За нас',
     subtitle: 'Най-добрата архитектурна рамка за хората',
     text: 'Вярваме, че чрез силен екипен дух, споделяне на знания и добро сътрудничество, можем да създадем и развием нова модел за българска архитектура. Ние се запознаваме с мястото, съобразяваме се с нуждите на обществото и потдържаме постоянен диалог с клиента, потребителя и нашите партньори. Ние работим отвъд поставените граници и взаимно ползваме компетенциите си, за да създадем съвместно изпълними, функционални устойчиви и естетични проекти, които създават стойност за клиента и потребителите.',
-    imgUrl: '/aboutUsPic.png',
+    imgUrl: 'aboutUsPic.png',
 }
 
 export const TeamData = {
@@ -13,7 +13,7 @@ export const TeamData = {
     members: [
         {
             name: 'Арх. Кристиан Димитров',
-            imgUrl: '/ProfileMale.jpg',
+            imgUrl: 'ProfileMale.jpg',
             description: [
             'Магистратура:',
             'НБУ 2023г',
@@ -23,7 +23,7 @@ export const TeamData = {
         },
         {
             name: 'Арх. Никол Павлова',
-            imgUrl: '/ProfileFemale.jpg',
+            imgUrl: 'ProfileFemale.jpg',
             description: ['Магистратура:',
             'НБУ 2023г',],
         }
@@ -36,15 +36,15 @@ export const ProjectsData = {
     projects: [
         {
             title: 'Заснемане на сгради',
-            imgUrls: ['/draftProject/pic1.jpg', '/draftProject/pic2.jpg', '/draftProject/pic3.jpg', '/draftProject/pic4.jpg'],
+            imgUrls: ['draftProject/pic1.jpg', 'draftProject/pic2.jpg', 'draftProject/pic3.jpg', 'draftProject/pic4.jpg'],
         },
         {
             title: 'Интериорен дизайн',
-            imgUrls: ['/indoorProject/pic1.jpg', '/indoorProject/pic2.jpg', '/indoorProject/pic3.png', '/indoorProject/pic4.png', '/indoorProject/pic5.png'],
+            imgUrls: ['indoorProject/pic1.jpg', 'indoorProject/pic2.jpg', 'indoorProject/pic3.png', 'indoorProject/pic4.png', '/indoorProject/pic5.png'],
         },
         {
             title: 'Жилищни сгради',
-            imgUrls: ['/outdoorProject/pic1.jpg', '/outdoorProject/pic2.jpg', '/outdoorProject/pic3.jpg', '/outdoorProject/pic4.jpg'],
+            imgUrls: ['outdoorProject/pic1.jpg', 'outdoorProject/pic2.jpg', 'outdoorProject/pic3.jpg', 'outdoorProject/pic4.jpg'],
         },
     ]
 }
@@ -91,27 +91,27 @@ export const sections = [
     {
         id: 'About',
         name: 'За нас',
-        imgUrl: '/navigation/aboutus.png',
+        imgUrl: 'navigation/aboutus.png',
     },
     {
         id: 'Team',
         name: 'Екип',
-        imgUrl: '/navigation/team.jpg',
+        imgUrl: 'navigation/team.jpg',
     },
     {
         id: 'Projects',
         name: 'Проекти',
-        imgUrl: '/navigation/projects.png',
+        imgUrl: 'navigation/projects.png',
     },
     {
         id: 'Services',
         name: 'Услуги',
-        imgUrl: '/navigation/services.jpg',
+        imgUrl: 'navigation/services.jpg',
     },
     {
         id: 'Contacts',
         name: 'Контакти',
-        imgUrl: '/navigation/contacts.png',
+        imgUrl: 'navigation/contacts.png',
     }
 ]
 
